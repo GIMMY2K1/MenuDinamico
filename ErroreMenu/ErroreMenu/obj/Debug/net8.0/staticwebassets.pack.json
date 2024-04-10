@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Ateikon.Git.Locale\\ErroreMenu\\ErroreMenu\\ErroreMenu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ErroreMenu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ErroreMenu.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Ateikon.Git.Locale\\ErroreMenu\\ErroreMenu\\ErroreMenu\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Ateikon.Git.Locale\\ErroreMenu\\ErroreMenu\\ErroreMenu\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Ateikon.Git.Locale\\ErroreMenu\\ErroreMenu\\ErroreMenu\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Ateikon.Git.Locale\\ErroreMenu\\ErroreMenu\\ErroreMenu\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ErroreMenu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ErroreMenu.props",
+      "PackagePath": "build\\ErroreMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ErroreMenu.props",
+      "PackagePath": "buildMultiTargeting\\ErroreMenu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ErroreMenu.props",
+      "PackagePath": "buildTransitive\\ErroreMenu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\Ateikon.Git.Locale\ErroreMenu\shared\bin\Debug\net8.0\shared.deps.json
+C:\Ateikon.Git.Locale\ErroreMenu\shared\bin\Debug\net8.0\shared.dll
+C:\Ateikon.Git.Locale\ErroreMenu\shared\bin\Debug\net8.0\shared.pdb
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.AssemblyInfoInputs.cache
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.AssemblyInfo.cs
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.csproj.CoreCompileInputs.cache
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.dll
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\refint\shared.dll
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\shared.pdb
+C:\Ateikon.Git.Locale\ErroreMenu\shared\obj\Debug\net8.0\ref\shared.dll
